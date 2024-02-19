@@ -8,7 +8,7 @@
 * TG中文版电报搜索源码程序
 * 置顶广告、底部广告、进群广告关键词广告都可自行设置
 * 后台管理管理系统 一键化配置
-* 测试群组https://t.me/sousuo_c
+* 测试群组https://t.me/sousuo_z
 * 测试后台地址https://test.autopqk.lol/wocaole.php  账户test 密码000000
 * tg红包雷 可自助充值 提现 地址：https://github.com/mmmrp/tg_hongbao
 * trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控 https://github.com/mmmrp/trx
