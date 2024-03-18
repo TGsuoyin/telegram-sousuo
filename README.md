@@ -9,7 +9,7 @@
 * 后台管理管理系统 一键化配置
 * [👉演示群组](https://t.me/sousuo_z)
 * [👉演示后台](http://quse.lat/wocaole.php)  账户test 密码000000
-* [👉TG红包扫雷、可自助充值、提现](https://github.com/mmmrp/tg_hongbao)
+* [👉TG红包扫雷、可自助充值、提现、自动发包、自动抢包](https://github.com/mmmrp/tg_hongbao)
 * [👉TRX兑换、能量租赁、TG会员、钱包靓号商城 钱包监控](https://github.com/mmmrp/trx)
 * [👉安卓远控 肉鸡 盗U](https://t.me/yuankong09)
 # 10万群组、频道 数据免费送  支持[@hwdb](https://t.me/hwdb) 汇旺担保交易  可先搭建后付费
