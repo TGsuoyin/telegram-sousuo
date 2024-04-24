@@ -11,6 +11,7 @@
 * [👉演示后台](http://quse.lat/wocaole.php)  账户test 密码000000
 * [👉TG红包扫雷、可自助充值、提现、自动发包、自动抢包](https://github.com/mmmrp/tg_hongbao)
 * [👉TRX兑换、能量租赁、TG会员、钱包靓号商城 钱包监控](https://github.com/mmmrp/trx)
+* [👉TG快三机器人](https://t.me/kstest1s)
 * [👉安卓远控 肉鸡 盗U](https://t.me/yuankong09)
 # 20万群组、频道 数据免费送  支持[@hwdb](https://t.me/hwdb) 汇旺担保交易
 
