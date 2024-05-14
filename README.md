@@ -8,7 +8,7 @@
 * 置顶广告、底部广告、进群广告关键词广告都可自行设置
 * 后台管理管理系统 一键化配置
 * [👉演示群组](https://t.me/sousuo_z)
-* [👉演示后台](http://quse.lat/wocaole.php)  账户test 密码000000
+* [👉演示后台](http://quse.lat/wocaole.php)  账户test 密码Qwe123123
 * [👉TG红包扫雷、可自助充值、提现、自动发包、自动抢包](https://github.com/mmmrp/tg_hongbao)
 * [👉TRX兑换、能量租赁、TG会员、钱包靓号商城 钱包监控](https://github.com/mmmrp/trx)
 * [👉TG快三机器人](https://t.me/kstest1s)
