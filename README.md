@@ -3,6 +3,9 @@
 # TG群组导航收录系统源码 最新版
 # 触发关键词  telegram超级索引系统
 # 自动全网爬取数据
+![image](https://github.com/user-attachments/assets/b4197842-20ce-4fb2-9dbe-5d869c89f7f6)
+![image](https://github.com/user-attachments/assets/df29c2d1-3d36-4292-9bc1-76fd8fe91292)
+
 * 可以搜索相关的信息
 * telegram超级索引源代码
 * TG中文版电报搜索源码程序
